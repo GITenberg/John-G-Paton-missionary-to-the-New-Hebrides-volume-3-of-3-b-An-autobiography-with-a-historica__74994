@@ -1,0 +1,39 @@
+_repo: John-G-Paton-missionary-to-the-New-Hebrides-volume-3-of-3-b-An-autobiography-with-a-historica__74994
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Paton, John Gibson
+    alias: Paton, John G.
+    birthdate: 1824
+    deathdate: 1907
+    gutenberg_agent_id: '33089'
+    url: http://www.gutenberg.org/2009/agents/33089
+    wikipedia: https://en.wikipedia.org/wiki/John_Gibson_Paton
+  editor:
+    agent_name: Paton, James
+    birthdate: 1843
+    deathdate: 1906
+    gutenberg_agent_id: '33084'
+    url: http://www.gutenberg.org/2009/agents/33084
+description: ''
+gutenberg_issued: '2024-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74994'
+language: en
+pgterms:marc904: https://archive.org/details/johngpatonmissio03pato/page/n5/mode/2up
+pgterms:marc905: 20201109211553paton
+pgterms:marc906: '1898'
+pgterms:marc907: us
+production_note: Richard Tonsing, Brian Wilson, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bFlemming H. Revell Company, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'John G. Paton, missionary to the New Hebrides, volume 3 (of 3) : $b An autobiography,
+  with a historical note and an account of the Progress of the Gospel in the New Hebrides'
+url: http://www.gutenberg.org/ebooks/74994
